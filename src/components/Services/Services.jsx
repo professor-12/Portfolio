@@ -3,7 +3,7 @@ import React from 'react'
 const Services = () => {
   return (
     <section className='my-[15rem] space-y-12'>
-      <h1 className='text-4xl font-medium'>My Skills</h1>
+      <h1 className='text-4xl text-center md:text-left font-medium'>My Skills</h1>
 
       <div className='grid  gap-3 grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>
         <div className='min-h-[12rem] bg-[#3b423b44] p-2 rounded-xl'>

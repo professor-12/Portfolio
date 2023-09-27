@@ -48,7 +48,7 @@ const Header = () => {
 
       {opennav && (
         <div className='md:hidden'>
-          <ul className='fixed md:hidden  bottom-0 z-50 p-5  top-0 space-y-6  right-0 w-[40%] bg-red-600'>
+          <ul className='fixed md:hidden  bottom-0 z-50 p-5  top-0 space-y-6  right-0 w-[60%] bg-red-600'>
             <div
               className='md:hidden fixed right-6'
               onClick={() => {

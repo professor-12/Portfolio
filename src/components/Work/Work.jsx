@@ -3,9 +3,9 @@ import React from 'react'
 const Work = () => {
   return (
     <section id='projects' className='mb-[15rem] space-y-12'>
-      <h1 className='text-4xl font-medium'>My Works</h1>
+      <h1 className='text-4xl text-center md:text-left  font-medium'>My Works</h1>
 
-      <div className='grid gap-3 grid-cols-2 md:grid-cols-3 overflow-hidden'>
+      <div className='grid gap-3 grid-cols-1 md:grid-cols-3 overflow-hidden'>
         <a
           target='_blank'
           className='hover:scale-105 duration-150
