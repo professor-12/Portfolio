@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 const Header = () => {
   const [opennav, setopennav] = useState(false)
   return (
-    <nav className='flex justify-between  tracking-wide text-white font-semibold py-3'>
+    <nav className='flex justify-between pl-2  tracking-wide text-white font-semibold py-3'>
       <h1 className='text-4xl'>
         <span className='text-red-700 '>S</span>portnail
       </h1>
