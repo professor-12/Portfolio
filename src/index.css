@@ -1,0 +1,7 @@
+@tailwind utilities;
+@tailwind base;
+@tailwind components;
+
+body {
+  @apply bg-[#211f29] scroll-smooth
+}
